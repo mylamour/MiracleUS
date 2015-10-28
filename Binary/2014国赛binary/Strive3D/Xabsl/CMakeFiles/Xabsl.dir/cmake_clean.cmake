@@ -1,0 +1,22 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/Xabsl.dir/XabslAction.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslEngineExecutor.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslStatement.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslAgent.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslEnumeratedExpression.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslSymbols.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslBooleanExpression.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslOption.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslTools.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslDecimalExpression.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslParameters.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslEngine.cpp.o"
+  "CMakeFiles/Xabsl.dir/XabslState.cpp.o"
+  "libXabsl.pdb"
+  "libXabsl.a"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/Xabsl.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

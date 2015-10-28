@@ -1,0 +1,4 @@
+getReady,V1.0,LHipYawPitch,LHipRoll,LHipPitch,LKneePitch,LAnklePitch,LAnkleRoll,RHipYawPitch,RHipRoll,RHipPitch,RKneePitch,RAnklePitch,RAnkleRoll,RShoulderPitch,LShoulderPitch,6,18
+00:00:000,Pose1,0,0,-0.611,1.222,-0.611,0,0,0,-0.611,1.222,-0.611,0,0,0
+00:00:120,Pose4,0,0,-0.543,1.086,-0.543,0,0,0,-0.543,1.086,-0.543,0,0.46,0.46
+00:00:160,Pose5,0,0,-0.525,1.05,-0.525,0,0,0,-0.525,1.05,-0.525,0,0.95,0.95

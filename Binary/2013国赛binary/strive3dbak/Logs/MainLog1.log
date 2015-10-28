@@ -1,0 +1,11 @@
+Strive3D(2013) Logger file.
+This logger system is created by Zheng Yonglei of Strive3D team on the basis of Mersad team's released source code.
+This file is created in Fri Oct 18 13:58:20 2013
+
+[000000][cycle interval= 0:000:865]
+  0:000:114. PlanManager::PlanManager()-->A PlanManager is constructed.
+  0:000:135. AdvancedAgent::AdvancedAgent()-->An AdvancedAgent is constructed.
+  0:000:152. PathPlanning::PathPlanning()-->A PathPlanning is constructed.
+  0:000:163. MessageStorage::MessageStorage-->MessageStorage is constructed.
+  0:000:175. initStaticModules-->All static modules are initialized.
+  0:000:186. **************************************************************

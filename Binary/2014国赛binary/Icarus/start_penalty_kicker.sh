@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# ChinaOpen 2012 start script for 3D soccer simulation (PenaltyKick)
+#
+
+AGENT_BINARY="NPU3D"
+BINARY_DIR="./"
+
+killall -9 "$AGENT_BINARY" &> /dev/null
+
+"$BINARY_DIR/$AGENT_BINARY" --host $1 --unum 7 & > /dev/null

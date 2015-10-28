@@ -1,0 +1,46 @@
+22  	2
+0  	0	    
+0  	0.6    
+3 	0 
+4  	0 
+5	0 
+6	0 
+7       40  
+8      	40 
+9       -65 
+10      -65 
+11      40    
+12      40    
+13      0
+14      0 
+15      -90 
+16      -90 
+17      0 
+18      0  
+19      0 
+20      0  
+21      0 
+22      0
+
+
+	JID_LLEG_1,//3
+	JID_RLEG_1,//4
+	JID_LLEG_2,//5
+	JID_RLEG_2,//6
+	JID_LLEG_3,//7
+	JID_RLEG_3,//8
+	JID_LLEG_4,//9
+	JID_RLEG_4,//10
+	JID_LLEG_5,//11
+	JID_RLEG_5,//12
+	JID_LLEG_6,//13
+	JID_RLEG_6,//14
+
+	JID_LARM_1,//15
+	JID_RARM_1,//16
+	JID_LARM_2,//17
+	JID_RARM_2,//18
+	JID_LARM_3,//19
+	JID_RARM_3,//20
+	JID_LARM_4,//21
+	JID_RARM_4,//22

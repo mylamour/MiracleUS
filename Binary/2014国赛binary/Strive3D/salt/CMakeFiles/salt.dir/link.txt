@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsalt.a  CMakeFiles/salt.dir/bounds.cpp.o CMakeFiles/salt.dir/frustum.cpp.o CMakeFiles/salt.dir/matrix.cpp.o CMakeFiles/salt.dir/plane.cpp.o
+/usr/bin/ranlib libsalt.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libRobotModel.a  CMakeFiles/RobotModel.dir/nao.cpp.o CMakeFiles/RobotModel.dir/robot.cpp.o
+/usr/bin/ranlib libRobotModel.a

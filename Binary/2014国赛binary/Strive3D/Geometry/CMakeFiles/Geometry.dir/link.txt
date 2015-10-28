@@ -1,0 +1,2 @@
+/usr/bin/ar cr libGeometry.a  CMakeFiles/Geometry.dir/geometry.cpp.o CMakeFiles/Geometry.dir/spline.cpp.o CMakeFiles/Geometry.dir/trajectory.cpp.o CMakeFiles/Geometry.dir/MatrixSpline.cpp.o
+/usr/bin/ranlib libGeometry.a

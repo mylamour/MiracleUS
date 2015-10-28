@@ -1,0 +1,2 @@
+/usr/bin/ar cr libTrainer_Client.a  CMakeFiles/Trainer_Client.dir/common.cpp.o CMakeFiles/Trainer_Client.dir/control.cpp.o CMakeFiles/Trainer_Client.dir/trainer_client.cpp.o
+/usr/bin/ranlib libTrainer_Client.a

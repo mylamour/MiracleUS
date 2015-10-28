@@ -1,0 +1,2 @@
+#! /bin/bash
+sim3dStart-client 192.168.2.12

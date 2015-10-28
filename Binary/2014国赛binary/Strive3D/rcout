@@ -1,0 +1,37 @@
+Starting RoboViz in live mode
+(MonitorServer) WARNING: SimulationServer not found.
+rcssserver3d (formerly simspark), a monolithic simulator 0.6.8.1
+Copyright (C) 2004 Markus Rollmann, 
+Universität Koblenz.
+Copyright (C) 2004-2009, The RoboCup Soccer Server Maintenance Group.
+
+Type '--help' for further information
+
+(SimulationServer) SimControlNode 'AgentControl' registered
+(AgentControl) Running in normal mode.
+(spark.rb) sparkSetupInput
+(spark.rb) using InputSystem 'InputSystemSDL'
+(InputServer) Init InputSystemSDL
+(InputServer) CreateDevice Keyboard
+(InputServer) CreateDevice Mouse
+(spark.rb) sparkSetupTimer
+(spark.rb) using TimerSystem 'TimerSystemBoost'
+(SimulationServer) SimControlNode 'InputControl' registered
+(SimulationServer) TimerSystem 'TimerSystemBoost' registered
+(bindings.rb) setting up bindings
+(spark.rb) sparkEnableLog logTarget=:cerr logType=eError
+*** OpenGL Support Info ***
+-GL Version               : 3.0 Mesa 8.0.4
+-SL Version               : 1.30
+-Vendor                   : Tungsten Graphics, Inc
+-Renderer                 : Mesa DRI Intel(R) Sandybridge Mobile 
+
+(rv.content.ContentManager$ModelLoader): Loaded models/newfield.obj
+(rv.content.ContentManager$ModelLoader): Loaded models/skybox.obj
+(rv.comm.rcssserver.ServerComm): connected with rcssserver3d localhost/127.0.0.1:3200
+(rv.content.ContentManager$ModelLoader): Loaded models/naosoccerfield.obj
+(rv.content.ContentManager$ModelLoader): Loaded models/rightgoal.obj
+(rv.content.ContentManager$ModelLoader): Loaded models/leftgoal.obj
+(rv.content.ContentManager$ModelLoader): Loaded models/soccerball.obj
+
+(SimulationServer) caught SIGINT. exiting.
