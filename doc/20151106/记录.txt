@@ -1,0 +1,18 @@
+1.生成简单的agent，看看底层就知道了，现在发现我们的代码就是基于底层写的。
+
+将rcsserver中的头文件包含进来，根据rcssagent中的main,naobehavior把makefile写好，直接使用是不行的，这样就能生成一个简单的智能体。
+底层的架构就是在main中初始化球员，在behavior中think，其中服务器发送的消息经过了parse，可以将动作策略单独拿出去写成类，也可以直接在behavior中switch(mstate)再去选择。
+
+
+
+2.wget -r -p -np -k -P ~/tmp/ http://somethinghere.com
+		这是一行你懂得～——！～
+		
+		
+3.关于so文件的编译生成，和makefile的写法，动态库的调用，然后发现越是调用越多库，自动化编译，例如qmake就不能解决问题，需要熟悉gcc/g++的基础命令行编译及链接。而不是简单的gcc -o xxx xxx.c 而是　gcc -o xxx xxx.c -L/usr/lib/orsomething
+
+
+4.看了一些陈旧的TDP发现其实框架大家都是差不多的，我在想，有些东西要不要上传进去呢～
+
+
+
