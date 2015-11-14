@@ -1,5 +1,0 @@
-//#include <iostream>
-#include "fitnessfunction.hh"
-using namespace std;
-using namespace bats;
-

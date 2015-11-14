@@ -1,2 +1,0 @@
-/usr/bin/ar cr libWorldModel.a  CMakeFiles/WorldModel.dir/ball.cpp.o CMakeFiles/WorldModel.dir/convexhullmanager.cpp.o CMakeFiles/WorldModel.dir/player.cpp.o CMakeFiles/WorldModel.dir/worldmodel.cpp.o CMakeFiles/WorldModel.dir/convexhull.cpp.o CMakeFiles/WorldModel.dir/fieldinfo.cpp.o CMakeFiles/WorldModel.dir/self.cpp.o
-/usr/bin/ranlib libWorldModel.a

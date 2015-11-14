@@ -1,2 +1,0 @@
-/usr/bin/ar cr libAdvancedAgent.a  CMakeFiles/AdvancedAgent.dir/AdvancedAgent.cpp.o CMakeFiles/AdvancedAgent.dir/GoaliePlan.cpp.o CMakeFiles/AdvancedAgent.dir/PathPlanning.cpp.o CMakeFiles/AdvancedAgent.dir/PositioningPlan.cpp.o CMakeFiles/AdvancedAgent.dir/DribblePlan.cpp.o CMakeFiles/AdvancedAgent.dir/GoalPlan.cpp.o CMakeFiles/AdvancedAgent.dir/PlanManager.cpp.o
-/usr/bin/ranlib libAdvancedAgent.a

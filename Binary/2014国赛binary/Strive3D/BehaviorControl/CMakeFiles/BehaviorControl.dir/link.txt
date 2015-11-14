@@ -1,2 +1,0 @@
-/usr/bin/ar cr libBehaviorControl.a  CMakeFiles/BehaviorControl.dir/CommonBasicBehaviors.cpp.o CMakeFiles/BehaviorControl.dir/Strive3DBehaviorControl.cpp.o CMakeFiles/BehaviorControl.dir/XabslBehaviorControl.cpp.o CMakeFiles/BehaviorControl.dir/NaoBehaviorControl.cpp.o CMakeFiles/BehaviorControl.dir/WalkPathPlanningControl.cpp.o
-/usr/bin/ranlib libBehaviorControl.a

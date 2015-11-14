@@ -1,2 +1,0 @@
-/usr/bin/ar cr libHeadControl.a  CMakeFiles/HeadControl.dir/HeadControlMode.cpp.o CMakeFiles/HeadControl.dir/HeadPathPlanner.cpp.o CMakeFiles/HeadControl.dir/NaoHeadControl.cpp.o CMakeFiles/HeadControl.dir/HeadMotionRequest.cpp.o CMakeFiles/HeadControl.dir/NaoHeadControlBasicBehaviors.cpp.o
-/usr/bin/ranlib libHeadControl.a

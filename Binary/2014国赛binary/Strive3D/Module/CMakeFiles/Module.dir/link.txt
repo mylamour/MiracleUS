@@ -1,2 +1,0 @@
-/usr/bin/ar cr libModule.a  CMakeFiles/Module.dir/ModuleHandler.cpp.o CMakeFiles/Module.dir/ModuleSelector.cpp.o CMakeFiles/Module.dir/SolutionRequest.cpp.o
-/usr/bin/ranlib libModule.a

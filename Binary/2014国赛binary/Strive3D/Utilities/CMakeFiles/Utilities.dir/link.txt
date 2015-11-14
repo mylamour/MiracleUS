@@ -1,2 +1,0 @@
-/usr/bin/ar cr libUtilities.a  CMakeFiles/Utilities.dir/Logger.cpp.o CMakeFiles/Utilities.dir/MessageStorage.cpp.o CMakeFiles/Utilities.dir/Utilities.cpp.o CMakeFiles/Utilities.dir/xmlParser.cpp.o
-/usr/bin/ranlib libUtilities.a

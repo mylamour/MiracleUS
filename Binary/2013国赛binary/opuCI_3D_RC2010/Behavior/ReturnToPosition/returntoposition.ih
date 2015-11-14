@@ -1,9 +1,0 @@
-#include "returntoposition.hh"
-
-#include "worldmodel.hh"
-
-#define DEBUGLEVEL 0
-#include "debug.hh"
-
-using namespace bats;
-using namespace std;

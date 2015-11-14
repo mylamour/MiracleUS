@@ -1,2 +1,0 @@
-/usr/bin/ar cr libNet.a  CMakeFiles/Net.dir/addr.cpp.o CMakeFiles/Net.dir/handler.cpp.o CMakeFiles/Net.dir/socket.cpp.o CMakeFiles/Net.dir/udpsocket.cpp.o CMakeFiles/Net.dir/exception.cpp.o CMakeFiles/Net.dir/Net.cpp.o CMakeFiles/Net.dir/tcpsocket.cpp.o
-/usr/bin/ranlib libNet.a
