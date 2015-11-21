@@ -1,0 +1,70 @@
+无聊的日子里解解闷
+import antigravity(python console)
+
+python -m SimpleHTTPServer 8000
+
+python -m smtpd -n -c DebuggingServer localhost:1025
+
+其实用awk来分析log文件还是十分不错的
+
+man 7 ascii
+
+---------------------------------SSH----------------------------------
+
+
+1.apt-get install openssh-server
+2.when you install server you can use commond like this:
+copy file to  a remote server
+	root#:scp somefile username@remoteip:remotepath(folderandfile)
+	
+but ssh didn't allow user to login with root
+
+3.sshfs  can have a remote folder reflect 
+-----------------------------------------------------------------------
+------------------------------STATIC IP--------------------------------
+
+make a ip static,just edit a /etc/network/interface
+
+	iface eth0 inet static
+
+	address 192.168.1.88
+	netmask 255.255.255.0
+	gateway 192.168.1.1
+
+-------------------------------WGET  FTP-------------------------
+
+wget -r ftp://anonymous:anonymous@chaosscripting.net/competitions/RoboCup
+
+记得多开几个线程～～
+------------------------------------------
+
+
+du -h --max-depth=1
+
+
+----------------------------------------------------------------------
+ping xxx.com  	出现unkonwn host 
+	Way: vi /etc/resolv.conf  把nameserver的ip 改成DNS服务器的ip即可
+	
+more /var/log/syslog		看看系统日志
+
+把U盘里面装个系统，(先把U盘分区，sdb1,sdb2,sdb3，记住sdb1的格式要是fat32)
+挂载的时候显示没有的时候就自己创建个文件夹，然后手动挂载
+	
+	mkdir /mnt/sdb1		
+	mount -a /dev/adb1 /mnt/sdb1
+	dd if = xxx.iso of=/dev/sdb1
+	
+还可以用UNetbootin
+
+->_->
+you know that,right?
+
+----------------------------------------------------------------------
+
+	
+	
+	
+	
+	
+
