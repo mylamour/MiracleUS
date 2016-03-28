@@ -1,0 +1,79 @@
+http://www.cs.utexas.edu/~patmac/cs344m/resources/index.html
+
+http://roboearth.org/
+
+http://www.roboticsproceedings.org/rss11/index.html
+
+
+Desiderata for Agent Communication Languages
+http://www.csee.umbc.edu/csee/research/kqml/papers/desiderata-acl/root.html
+
+
+http://www.cyc.com/
+http://www.cyc.com/platform/opencyc/
+
+Cycorp is a leading provider of semantic technologies that bring a new level of intelligence and common sense reasoning to a wide variety of software applications. The Cyc software combines an unparalleled common sense ontology and knowledge base with a powerful reasoning engine and natural language interfaces to enable the development of novel knowledge-intensive applications.
+
+
+
+Week 5: RoboCup case studies is very important
+
+
+genetic programing:
+	http://www.genetic-programming.com/gpanimatedtutorial.html
+	
+machine learing:
+	http://www.cs.cmu.edu/~tom/mlbook.html
+	
+http://citeseerx.ist.psu.edu/
+
+http://raffaello.name/	 		//perfect enought
+
+//AIM by peter stone
+http://www.cs.utexas.edu/~pstone/teaching.shtml				//peter stone
+http://www.cs.utexas.edu/~aim/	
+http://www.cs.utexas.edu/~pstone/Courses/393Rfall15/		// one of peter stone's  course 
+
+//统计学入门教程
+http://stattrek.com/hypothesis-test/hypothesis-testing.aspx
+
+//t-test  
+http://www.physics.csbsju.edu/stats/t-test.html
+
+//half field offense 
+http://www.cs.utexas.edu/~AustinVilla/sim/halffieldoffense/
+
+//player keep away
+http://www.cs.utexas.edu/~AustinVilla/sim/keepaway/
+
+//dynamic filter
+http://webdocs.cs.ualberta.ca/~bowling/publications/b2hd-07aaai-om.html
+
+
+//Reinforcement Learning
+http://www.cs.utexas.edu/~pstone/Courses/394Rfall07/
+
+
+
+
+
+
+• Control algorithms
+• Machine vision, sensing and localization,
+• Real-time distributed computing,
+• Real-time ad hoc networking,
+• Mechanical design,
+• Machine learning, and
+• Autonomous multiagent systems
+
+
+
+
+
+
+
+
+
+
+
+
