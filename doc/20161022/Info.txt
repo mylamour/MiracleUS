@@ -1,0 +1,27 @@
+http://www.cs.utexas.edu/~pstone/Papers/bib2html/         Peter Stone的主页
+	http://www.cs.utexas.edu/~pstone/students.shtml			  Peter Stone的学生，第三个是Patrick MacAlpine(为人和善，手指细长#-_-)
+		http://www.cs.utexas.edu/~patmac/publications.html
+		
+		
+	http://www.cs.utexas.edu/~patmac/cs344m/									2015		
+	http://www.cs.utexas.edu/~todd/cs344m										2012
+	http://www.cs.utexas.edu/~pstone/Courses/344Mfall10							2010
+	http://www.cs.utexas.edu/~pstone/Courses/344Mspring08						2008
+	http://www.cs.utexas.edu/~pstone/Courses/378spring06						2006
+	http://www.cs.utexas.edu/~pstone/Courses/378spring05						2004
+	http://www.cs.utexas.edu/~pstone/Courses/378fall02							2002
+	http://cs.nyu.edu/courses/fall01/G22.3033-012/index.htm						2001
+
+http://www.wrighteagle.org/en/people/xpchen.php			  科大的陈小平教授
+	http://www.wrighteagle.org/en/people/index.php		  陈教授的学生， 科大的从08年以后就没有再参加过3d的比赛了，不过2d一直都是拿冠军的
+
+
+
+
+	
+其他：
+https://github.com/daizoru/node-simspark  有人写了node接口的，牛逼
+
+https://bitbucket.org/MohammadR/rcsstrainer2d/src
+
+https://sites.google.com/site/ridlesgp/ 
