@@ -6,8 +6,8 @@ find <directory> -type f -name "*.c" | xargs grep "<strings>"
 #example: find RoboCup3D/ -type f -name "*.java" | xargs grep -n "readFileBehaviors" > thisisatest
 #上面的命令是在robocup3d文件夹中在所有后缀为java的文件中找到包含“readFileBehaviors”字符的文件。grep不加'-n'选项的话不能给出确切行数，然后将所有结果重定向
 
-find ~/ -name 'core*' -exec rm {} ;
-#这个命令找到匹配～目录下符合上面那个表达式的文件(路径),然后会替换到大括号里，所以很显然的就被rm了
+rm $(find stuphoto/ -name "*.html*")
+#把找到的特定后缀的名字作为变量传给rm,全部移出
 
 scp binary name@host://path
 #example: scp hello.tar.gz root@192.168.1.102:/home/lamour/test
